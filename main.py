@@ -18,3 +18,13 @@ print("Hello world!")
 # branches adalah kelompok development yang terpisah-pisah
 # digunakan untuk develop fitur tanpa mengganggu branch lain karena sudah terisolasi
 # untuk membuat branch baru, gunakan git branch [nama branch]
+
+
+
+
+
+
+
+
+
+# Di atas akan menjadi hasil git merge
