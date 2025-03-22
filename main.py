@@ -14,3 +14,7 @@ print("Hello world!")
 print("Hello world!")
 
 # untuk add several changes in one-go, gunakan git add *
+
+# branches adalah kelompok development yang terpisah-pisah
+# digunakan untuk develop fitur tanpa mengganggu branch lain karena sudah terisolasi
+# untuk membuat branch baru, gunakan git branch [nama branch]
