@@ -12,3 +12,5 @@ print("Hello world!")
 print("Hello world!")
 print("Hello world!")
 print("Hello world!")
+
+# untuk add several changes in one-go, gunakan git add *
