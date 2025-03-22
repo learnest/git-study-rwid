@@ -17,4 +17,10 @@ print("Hello world!")
 
 
 
+
+
+
+
+# git reset --hard akan restore save point di commit yang terakhir
+# git merge menggabungkan fitur2 yang ada di dua branch
 print("Kode ini dari branch dev")
