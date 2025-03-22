@@ -29,4 +29,6 @@ print("Kode ini dari branch dev")
 # Di atas akan menjadi hasil git merge
 
 
-
+# Jika terjadi merge conflict maka:
+# edit file yang ter-merge dan hapus tanda merge conflict
+# (<<<<<<<, =======, >>>>>>>)
