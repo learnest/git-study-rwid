@@ -8,3 +8,7 @@ print("Hello world!")
 # untuk save, pakai git commit -m "commit comment"
 # version control bisa lihat di git log
 # changes tidak akan muncul jika file tidak di save
+
+print("Hello world!")
+print("Hello world!")
+print("Hello world!")
