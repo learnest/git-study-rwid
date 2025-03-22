@@ -34,3 +34,5 @@ print("Kode ini dari branch dev")
 # (<<<<<<<, =======, >>>>>>>)
 
 # Github adalah remote repository untuk menyimpan file
+
+# git checkout [hash] bisa masuk dan edit saved file
