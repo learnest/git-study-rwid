@@ -14,3 +14,7 @@ print("Hello world!")
 print("Hello world!")
 
 # untuk add several changes in one-go, gunakan git add *
+
+
+
+print("Kode ini dari branch dev")
